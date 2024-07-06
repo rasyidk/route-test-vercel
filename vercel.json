@@ -2,7 +2,7 @@
   "redirects": [
     {
       "source": "/",
-      "destination": "https://nusaquanta/nawalrizky",
+      "destination": "https://nusaquanta.com/nawalrizky",
       "statusCode": 301,
       "has": [
         {
