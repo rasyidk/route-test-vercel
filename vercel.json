@@ -1,0 +1,26 @@
+{
+  "redirects": [
+    {
+      "source": "/",
+      "destination": "https://nusaquanta.com/nawal",
+      "statusCode": 301,
+      "has": [
+        {
+          "type": "host",
+          "value": "nawal.nusaquanta.com"
+        }
+      ]
+    },
+    {
+      "source": "/",
+      "destination": "https://nusaquanta.com/rasyid",
+      "statusCode": 301,
+      "has": [
+        {
+          "type": "host",
+          "value": "rasyid.nusaquanta.com"
+        }
+      ]
+    }
+  ]
+}
