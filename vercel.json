@@ -2,12 +2,12 @@
   "redirects": [
     {
       "source": "/",
-      "destination": "https://nusaquanta.com/nawal",
+      "destination": "https://nusaquanta/nawalrizky",
       "statusCode": 301,
       "has": [
         {
           "type": "host",
-          "value": "nawal.nusaquanta.com"
+          "value": "nawalrizky.nusaquanta.com"
         }
       ]
     },
@@ -18,7 +18,7 @@
       "has": [
         {
           "type": "host",
-          "value": "rasyid.nusaquanta.com"
+          "value": "rasyidkusnady.nusaquanta.com"
         }
       ]
     }
